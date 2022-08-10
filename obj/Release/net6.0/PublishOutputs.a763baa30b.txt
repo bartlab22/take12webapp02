@@ -1,0 +1,7 @@
+/Users/bagreda/Projects/Take12WebApp/take12webapp/obj/Release/net6.0/PubTmp/Out/take12webapp
+/Users/bagreda/Projects/Take12WebApp/take12webapp/obj/Release/net6.0/PubTmp/Out/appsettings.Development.json
+/Users/bagreda/Projects/Take12WebApp/take12webapp/obj/Release/net6.0/PubTmp/Out/appsettings.json
+/Users/bagreda/Projects/Take12WebApp/take12webapp/obj/Release/net6.0/PubTmp/Out/take12webapp.dll
+/Users/bagreda/Projects/Take12WebApp/take12webapp/obj/Release/net6.0/PubTmp/Out/take12webapp.deps.json
+/Users/bagreda/Projects/Take12WebApp/take12webapp/obj/Release/net6.0/PubTmp/Out/take12webapp.runtimeconfig.json
+/Users/bagreda/Projects/Take12WebApp/take12webapp/obj/Release/net6.0/PubTmp/Out/take12webapp.pdb
